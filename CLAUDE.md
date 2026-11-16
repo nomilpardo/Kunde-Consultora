@@ -37,6 +37,12 @@ Indicaciones del usuario (16-nov-2026) para todas las animaciones de cuentos. Ap
 
 - Los shorts de YouTube que promocionan una historia cierran con el texto: "Visita nuestro perfil y mira la historia completa".
 
+## Proyecto Musgoazul
+
+- Cuento "Los amigos de Musgoazul y la Semilla de Aurora". Personajes: Bambú (panda rojo), Pippa (ardilla voladora, bufanda roja), Don Hipo (erizo con gafas), Lula (nutria con flauta), Tito (caracol de lunares).
+- La producción se hace en el PC con Windows del usuario, con ComfyUI local (FLUX schnell + LTX 2.5). Una sesión en la nube no alcanza ese ComfyUI: desde la nube solo se preparan encargos para que los ejecute Claude Code en el PC.
+- Encargos en `encargos/`. El short vertical de prueba (40 s máximo) es `encargos/PROMPT_ClaudeCode_Musgoazul_short_40s.md`.
+
 ## Forma de trabajo con el usuario
 
 - Preguntar siempre en qué idioma se trabaja al iniciar una sesión.
