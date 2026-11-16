@@ -22,7 +22,16 @@ Indicaciones del usuario (16-nov-2026) para todas las animaciones de cuentos. Ap
 - Videos de referencia del usuario para la interacción entre personajes (solo como referencia de dinámica, no para copiar personajes ni historias):
   - "Pinky Dinky Doo: ¿En dónde están mis zapatos?" — https://www.youtube.com/watch?v=xY2rwSH3b2k
   - "My Little Pony: Lección cero" (español latino) — https://www.youtube.com/watch?v=Dw_cO_Bun2o
-- Estado al 16-nov-2026: no se pudieron descargar ni ver desde la sesión en la nube (YouTube rechazó la reproducción y los servidores de video no están permitidos en el entorno). Las pautas de interacción aún no están validadas contra los videos.
+- YouTube no se puede descargar desde la sesión en la nube; el usuario subió dos fragmentos (31 s y 22 s) y de ellos salen estas pautas (16-nov-2026):
+  - Réplicas cortas, de unos 2 segundos, que se encadenan: uno plantea una preocupación, el otro responde con una pregunta o un hecho, y el primero escala.
+  - Personalidades contrastadas en cada escena: uno se angustia o exagera, el otro mantiene la calma y lo aterriza con humor. Se llaman por su nombre.
+  - Quien escucha también actúa: mira, gesticula y reacciona mientras el otro habla.
+  - Emoción muy visible en cuerpo y cara (ojos enormes, orejas caídas, caminar de un lado a otro), con primeros planos en el pico emocional.
+  - Cambio de plano cada 1–5 segundos.
+  - Pausas sin diálogo de 5–10 segundos donde la imagen cuenta sola (una fantasía imaginada, el grupo celebrando o comiendo).
+  - El grupo reacciona en coro con frases breves ("¡Bravo!", "¡Viva Pinky!").
+  - El narrador describe la acción entre líneas de diálogo, con frases cortas, y puede hablarle con calidez a quien escucha ("No te preocupes, este es un cuento").
+  - Animación sencilla tipo recorte de papel y crayón: basta con mover brazos, cabeza y expresión.
 
 ## Formato de los shorts
 
