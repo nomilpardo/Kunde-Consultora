@@ -19,7 +19,10 @@ Indicaciones del usuario (16-nov-2026) para todas las animaciones de cuentos. Ap
 
 - Cada personaje tiene su propia voz, distinta de las demás.
 - Los personajes interactúan entre sí de forma dinámica y cercana, según lo que pida la historia.
-- Pendiente: el usuario ofreció compartir un video de referencia sobre cómo deben interactuar los personajes. Si aún no está registrado aquí, pedírselo antes de producir.
+- Videos de referencia del usuario para la interacción entre personajes (solo como referencia de dinámica, no para copiar personajes ni historias):
+  - "Pinky Dinky Doo: ¿En dónde están mis zapatos?" — https://www.youtube.com/watch?v=xY2rwSH3b2k
+  - "My Little Pony: Lección cero" (español latino) — https://www.youtube.com/watch?v=Dw_cO_Bun2o
+- Estado al 16-nov-2026: no se pudieron descargar ni ver desde la sesión en la nube (YouTube rechazó la reproducción y los servidores de video no están permitidos en el entorno). Las pautas de interacción aún no están validadas contra los videos.
 
 ## Formato de los shorts
 
